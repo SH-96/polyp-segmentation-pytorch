@@ -4,5 +4,5 @@ torch==1.5.1+cu101
 torchvision==0.6.1+cu101
 prettytable==0.7.2
 tqdm==4.40.0
-opencv_python==4.1.1.26
+opencv_python==4.2.0.32
 PyYAML==5.3.1
